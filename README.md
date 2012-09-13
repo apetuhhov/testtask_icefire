@@ -31,4 +31,4 @@ You can use test Twitter account created specifically for that purpose. Name: Te
 Twitter API v1 was used due to unknown problems with v1.1 API (Bad request 400 for all unauthorized requests)
 
 Style is not applied correctly to dynamically created elements. Workaround made.
-More info on the similar issue [here http://stackoverflow.com/questions/5249250/jqm-jquerymobile-dynamically-added-elements-not-displaying-correctly-and-css-is](here http://stackoverflow.com/questions/5249250/jqm-jquerymobile-dynamically-added-elements-not-displaying-correctly-and-css-is) 
+More info on the similar issue here [http://stackoverflow.com/questions/5249250/jqm-jquerymobile-dynamically-added-elements-not-displaying-correctly-and-css-is](http://stackoverflow.com/questions/5249250/jqm-jquerymobile-dynamically-added-elements-not-displaying-correctly-and-css-is) 
